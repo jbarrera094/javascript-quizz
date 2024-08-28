@@ -19,8 +19,7 @@ export default [
       'plugin:react/recommended', // Extiende las reglas recomendadas para React
     ],
     rules: {
-      'react/react-in-jsx-scope': 'off', // Desactiva la regla para React 17+
-      // Puedes agregar o sobrescribir otras reglas aquí
+      'react/react-in-jsx-scope': 'off',
     },
   },
 ];
